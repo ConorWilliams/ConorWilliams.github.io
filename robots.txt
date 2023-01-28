@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: //conorwilliams.github.io/sitemap.xml
