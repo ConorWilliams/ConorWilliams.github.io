@@ -26,6 +26,9 @@ languages:
         - name: Search
           url: search/
           weight: 30
+        - name: Publications
+          url: publications/
+          weight: 25
         - name: Blog
           url: archives/
           weight: 20
@@ -60,12 +63,7 @@ params:
 
   homeInfoParams:
     Title: "Hi, I'm Conor Williams \U0001F44B"
-    Content: Open-source enthusiast and PhD student at the University of Cambridge
-
-  profileMode:
-    enabled: false  
-    title: Hi, I'm Conor Williams
-    subtitle: " "
+    Content: Open-source enthusiast and PhD student at the University of Cambridge.
 
   socialIcons:
     - name: github
@@ -76,7 +74,7 @@ params:
       url: "index.xml"
 
   editPost:
-    URL: "https://github.com/ConorWilliams.github.io/blob/main/content"
+    URL: "https://github.com/conorwilliams/ConorWilliams.github.io/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
