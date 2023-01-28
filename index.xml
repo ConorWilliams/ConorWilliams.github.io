@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//conorwilliams.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New website</title>
+      <title>This website</title>
       <link>//conorwilliams.github.io/posts/website/</link>
       <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>//conorwilliams.github.io/posts/website/</guid>
-      <description>My first post.</description>
+      <description>My first post</description>
     </item>
     
     <item>
@@ -26,14 +26,43 @@
     </item>
     
     <item>
-      <title>About me</title>
-      <link>//conorwilliams.github.io/aboutme/</link>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <title>First year report - PhD</title>
+      <link>//conorwilliams.github.io/posts/fyr/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>//conorwilliams.github.io/aboutme/</guid>
-      <description></description>
+      <guid>//conorwilliams.github.io/posts/fyr/</guid>
+      <description>The report I produced after the first year of my PhD</description>
     </item>
     
+    <item>
+      <title>Master&#39;s thesis</title>
+      <link>//conorwilliams.github.io/posts/masters/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//conorwilliams.github.io/posts/masters/</guid>
+      <description>My Masters in Scientific Computing at the University of Cambridge</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>//conorwilliams.github.io/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//conorwilliams.github.io/aboutme/</guid>
+      <description>I am currently a PhD student at the University of Cambridge, previously I completed my Masters Degree at the same institution. Development of off-lattice kinetic Monte Carlo methods is my central focus and in my space time work on C++ hobby projects (I&amp;rsquo;m a bit of a template metaprogramming addict).
+My current research group is the Macromolecular Materials Laboratory, previously I was with the Rolls-Royce University Technology Centre. I
+Curriculum Vitae It&amp;rsquo;s always just-a-little out of date.</description>
+    </item>
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>//conorwilliams.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//conorwilliams.github.io/publications/</guid>
+      <description>Accelerating off-lattice kinetic Monte Carlo simulations to predict hydrogen vacancy-cluster interactions in α-Fe C.J.Williams, E.I.Galindo-Nava We present an enhanced off-lattice kinetic Monte Carlo (OLKMC) model, based on a new method for tolerant classification of atomistic local-environments that is invariant under Euclidean-transformations and permutations of atoms. Our method ensures that environments within a norm-based tolerance are classified as equivalent. During OLKMC simulations, our method guarantees to elide the maximum number of redundant saddle-point searches in symmetrically equivalent local-environments.</description>
+    </item>
     
     
   </channel>

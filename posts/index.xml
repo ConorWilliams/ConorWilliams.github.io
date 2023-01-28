@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//conorwilliams.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New website</title>
+      <title>This website</title>
       <link>//conorwilliams.github.io/posts/website/</link>
       <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>//conorwilliams.github.io/posts/website/</guid>
-      <description>My first post.</description>
+      <description>My first post</description>
     </item>
     
     <item>
@@ -23,6 +23,24 @@
       
       <guid>//conorwilliams.github.io/posts/openfly/</guid>
       <description>The open framework for on-the-fly off-lattice kinetic Monte Carlo simulations.</description>
+    </item>
+    
+    <item>
+      <title>First year report - PhD</title>
+      <link>//conorwilliams.github.io/posts/fyr/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//conorwilliams.github.io/posts/fyr/</guid>
+      <description>The report I produced after the first year of my PhD</description>
+    </item>
+    
+    <item>
+      <title>Master&#39;s thesis</title>
+      <link>//conorwilliams.github.io/posts/masters/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//conorwilliams.github.io/posts/masters/</guid>
+      <description>My Masters in Scientific Computing at the University of Cambridge</description>
     </item>
     
   </channel>
