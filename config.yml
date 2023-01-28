@@ -1,0 +1,101 @@
+baseURL: //conorwilliams.github.io
+languageCode: en-us
+title: Conor Williams
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Search
+          url: search/
+          weight: 30
+        - name: Blog
+          url: archives/
+          weight: 20
+        - name: About
+          url: aboutme/
+          weight: 1
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema..
+  description: "Conor's website"
+  author: Conor Williams
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowShareButtons: false
+  ShowReadingTime: true
+  disableSpecial1stPost: false
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  hideFooter: true
+  ShowRssButtonInSectionTermList: true
+  ShowToc: false
+  comments: false
+
+
+  homeInfoParams:
+    Title: "Hi, I'm Conor Williams \U0001F44B"
+    Content: Open-source enthusiast and PhD student at the University of Cambridge
+
+  profileMode:
+    enabled: false  
+    title: Hi, I'm Conor Williams
+    subtitle: " "
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/ConorWilliams"
+    - name: Reddit
+      url: "https://www.reddit.com/user/CJWilliams10/"
+    - name: Rss
+      url: "index.xml"
+
+  editPost:
+    URL: "https://github.com/ConorWilliams.github.io/blob/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  assets:
+    disableHLJS: true
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
