@@ -5,8 +5,35 @@
     <link>//conorwilliams.github.io/</link>
     <description>Recent content on Conor Williams</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//conorwilliams.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="//conorwilliams.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myrtle.ai internship</title>
+      <link>//conorwilliams.github.io/posts/myrtle.ai/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//conorwilliams.github.io/posts/myrtle.ai/</guid>
+      <description>Internship at Myrtle.ai</description>
+    </item>
+    
+    <item>
+      <title>TMS2023</title>
+      <link>//conorwilliams.github.io/posts/tms2023/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//conorwilliams.github.io/posts/tms2023/</guid>
+      <description>Presenting at TMS2023</description>
+    </item>
+    
+    <item>
+      <title>Libfork v2.0.0</title>
+      <link>//conorwilliams.github.io/posts/libforkv2/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//conorwilliams.github.io/posts/libforkv2/</guid>
+      <description>Releasing libfork v2.0.0</description>
+    </item>
+    
     <item>
       <title>This website</title>
       <link>//conorwilliams.github.io/posts/website/</link>
@@ -49,7 +76,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//conorwilliams.github.io/aboutme/</guid>
-      <description>I am currently a PhD student at the University of Cambridge, previously I completed my Masters Degree at the same institution. Development of off-lattice kinetic Monte Carlo methods is my central focus and in my space time work on C++ hobby projects (I&amp;rsquo;m a bit of a template metaprogramming addict).
+      <description>I am currently a PhD student at the University of Cambridge, previously I completed my Masters Degree at the same institution. My central focus is development of off-lattice kinetic Monte Carlo methods and in my spare time I work on C++ hobby projects (I&amp;rsquo;m a bit of a template metaprogramming addict).
 My current research group is the Macromolecular Materials Laboratory, previously I was with the Rolls-Royce University Technology Centre.
 Curriculum Vitae It&amp;rsquo;s always just-a-little out of date.</description>
     </item>
