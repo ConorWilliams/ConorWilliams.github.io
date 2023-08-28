@@ -4,7 +4,7 @@ layout: single
 showReadingTime: false
 ---
 
-I am currently a PhD student at the University of Cambridge, previously I completed my Masters Degree at the same institution. Development of off-lattice kinetic Monte Carlo methods is my central focus and in my space time work on C++ hobby projects (I'm a bit of a template metaprogramming addict). 
+I am currently a PhD student at the University of Cambridge, previously I completed my Masters Degree at the same institution. My central focus is development of off-lattice kinetic Monte Carlo methods and in my spare time I work on C++ hobby projects (I'm a bit of a template metaprogramming addict). 
 
 My current research group is the [Macromolecular Materials Laboratory](https://www.mml.msm.cam.ac.uk/), previously I was with the [Rolls-Royce University Technology Centre](https://www.rrutc.msm.cam.ac.uk/).
 
